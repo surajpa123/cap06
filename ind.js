@@ -7,3 +7,9 @@ function sum(a,b){
 console.log("Help m")
 
 console.log("Hello suraj")
+
+function sum(a,b){
+    return a+ b
+}console.log("Hello")
+
+
